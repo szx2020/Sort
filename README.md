@@ -1,2 +1,2 @@
 # Sort
-Eight commonly used sorting algorithms lack heap sorting at present
+Eight commonly used sorting algorithms 
